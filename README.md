@@ -47,5 +47,5 @@ for x in range(20, 14, -1):
 for x in range(0, 101, 2):
     print(x)
 
-
+NOTE--I took points off because the lab asked for the content in specific files.  
 
